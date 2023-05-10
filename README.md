@@ -4,7 +4,7 @@ Go Cache поможет записать значения *value* в кеш по
 
 # Example
 
-```
+```golang
 package main
 
 import (
