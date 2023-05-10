@@ -8,7 +8,7 @@ Go Cache поможет записать значения *value* в кеш по
 package main
 
 import (
-	"cache/cache"
+	"github.com/Feesder/cache"
 	"fmt"
 )
 
